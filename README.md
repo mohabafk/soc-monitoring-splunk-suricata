@@ -31,8 +31,10 @@ and document the response within a controlled lab environment.
 - Firewall-based response
 
 ## Project Materials
-The project presentation and supporting screenshots will be added
-to this repository.
+[Download the project presentation](Cybersecurity_Incident_Documentation.pptx)
+
+The presentation includes screenshots of the lab setup, monitoring,
+log analysis, and response steps.
 
 ## Scope
 This repository documents an academic lab. It is not a production
